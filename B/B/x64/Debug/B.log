@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Programs\SAOD DZ\lab_6\B\B\main.cpp(27,17): warning C4101: S: неиспользованная локальная переменная
+  B.vcxproj -> D:\Programs\SAOD DZ\lab_6\B\B\x64\Debug\B.exe
